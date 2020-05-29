@@ -1,0 +1,8 @@
+.kartu {
+	width: 25rem;
+	border:1px solid #aaa;
+	border-radius:3px;
+	padding:3px;
+	padding-bottom:9px;
+	margin-top:17px;
+}
