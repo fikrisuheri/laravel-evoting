@@ -13,3 +13,6 @@ cara instalasi
 akun admin<br>
 email : admin@gmail.com<br>
 password : rahasia<br>
+<br><br><br>
+
+Dibuat Menggunakan Laravel 5.7 Silahkan bila ingin dipelajari dan aplikasi ini tidak untuk diperjual beli kan
